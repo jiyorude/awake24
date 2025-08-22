@@ -37,7 +37,7 @@ No matter if you prefer long-distance Intercity runs, freight train trips or det
 ### Timetable Installation
 * Download the latest `.pak` file found in the Release section.
 * Ensure you have the `Zwolle-Groningen` route and the `TSW5 Starter Pack` installed on your computer and have booted the game at least once after installation.
-* Navigate to `Train Sim World 5`, followed by `WindowsNoEditor/TS2Prototype/Content/DLC`.
+* Navigate to the location on your computer where you have installed `Train Sim World 5`, followed by `WindowsNoEditor/TS2Prototype/Content/DLC`.
 * Place the `.pak` file inside the `DLC` folder.
 * Boot up the game, click on `To the Trains`, `Choose a Route`, `Spoorlijn Zwolle-Groningen`, `Timetable`, `Awake24`.
 * Now you are ready to choose a train, service and jump into the game!
@@ -74,6 +74,7 @@ A dedicated documentation website with in-depth information regarding services, 
 | :------:| :----------- | :-------------|:------|
 | **0.1.0** | IC-200 series (Groningen - Meppel) | Playtesting of IC200 and 205 services; implementation of remaining services | 22/08/2025 |
 | **0.2.0** | IC-300 series (Groningen - Assen) | TBA | TBA |
+| **0.2.1** | Theming (Awake24 Logo and Theme in-game) | TBA | TBA |
 
 <br/><br/>
 
