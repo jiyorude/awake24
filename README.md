@@ -18,7 +18,7 @@ The intentions of the timetable are not to represent a picture-perfect reflectio
 * **More Locomotives** - AI Blauwnet and Arriva services are operated with custom-designed 323TTC's, freight trains are occupying the map 24/7. Certain services use a custom-designed BR146 double-decker during peak hours to relieve the absence of the NS VIRM trains
 
 
-* Fixes from the original timetable, such as a 24 hour commuter service between Groningen - Zwolle using the ICM3, and a 24 hour service between Groningen and Assen (not just rush hour)
+* Fixes from the original timetable, such as a 24 hour commuter service between Groningen - Zwolle using the ICM-3, and a 24 hour service between Groningen and Assen (not just rush hour)
 * Additional services such as the Intercity Direct to Zwolle, new virtual destinations, 
 * More AI services around Zwolle and freight trains, making the rail feel more alive.
 * Lots of shunting-related services
