@@ -18,15 +18,15 @@ No matter if you prefer long-distance Intercity runs, freight train trips or det
     * Higher levels of traffic;
     * All day commuter Intercity services between Groningen and Zwolle with the ICM-3 (instead of only two services at 5AM and 11PM);
     * AI Blauwnet services are now in operation around Zwolle. Services are conducted by custom-designed 323TTC's with NS liveries;
-    * Certain peak-hour Intercity services provide the user the freedom to choose between NS ICM3 or custom-designed DB BR146 + 765/775/785 DBpbzfa double-deckers with NS liveries to somewhat relieve the absence of NS *VIRM* and *DDZ* double-decker trains;
-    * The eastern-side of Groningen is occupied with AI Arriva services heading towards Roodeschool/Eemshaven, Delfzijl, Leeuwarden, Leer (Germany) consisting of custom-designed Class 66 diesel locomotives and DBpbzfa 775 coaches with Arriva liveries;
+    * Certain peak-hour Intercity services provide the user the freedom to choose between NS ICM-3 or custom-designed DB BR146 + 765/775/785 DBpbzfa double-deckers with NS liveries to somewhat relieve the absence of NS *VIRM* and *DDZ* double-decker trains;
+    * The eastern-side of Groningen is occupied with AI Arriva services heading towards Roodeschool/Eemshaven, Delfzijl and Leeuwarden: consisting of custom-designed Class 66 diesel locomotives and DBpbzfa 775 coaches with Arriva liveries;
     * Many more shunting, coupling and uncoupling objectives;
 * **New Tutorials and Scenarios**
     * Exciting new ways to familiarize yourself with the timetable or to test your train driving skills!
 * **New service additions**
     * Such as the Intercity Groningen - Meppel (revival of the old Leeuwarden - Meppel service) and the Intercity Direct service to Zwolle;
-    * Drivable Arriva service Groningen - Veendam (from/to Groningen Europapark Platforms 1 and 2);
-    * Overhaul of virtual destinations at Groningen and Zwolle
+    * Drivable Arriva service between Groningen and Veendam/Leer (Germany) from the western side of the station (from/to Groningen Europapark Platforms 1 and 2);
+    * Overhaul of virtual destinations at Groningen and Zwolle;
 
 
 
@@ -70,11 +70,34 @@ A dedicated documentation website with in-depth information regarding services, 
 
 ### Development Roadmap
 
+| Status | Meaning |
+|:---:|:----|
+| ⚠️ | Completed (tested and works with minor bugs or workarounds - see bottom of file) |
+| ❔| Potential feature or service (not implemented yet) |
+| ✅ | Completed (tested and fully working) |
+| 🅿️ | Playtest (feature is being tested) |
+| ❌ | Feature is not working (yet) |
+| 🚧 | Work in progress |
+
+<br/>
+
 | Version | Functionality | Current State |   Date |
 | :------:| :----------- | :-------------|:------|
-| **0.1.0** | IC-200 series (Groningen - Meppel) | Playtesting of IC200 and 205 services; implementation of remaining services | 22/08/2025 |
-| **0.2.0** | IC-300 series (Groningen - Assen) | TBA | TBA |
-| **0.2.1** | Theming (Awake24 Logo and Theme in-game) | TBA | TBA |
+| **0.1.0** | IC-200 series (Groningen - Meppel) | ✅  | 30/08/2025 |
+| **0.2.0** | IC-300 series (Groningen - Assen) | 🚧 | *TBA* |
+| **0.2.1** | Theming (Awake24 Logo and Theme in-game) | ❔| *TBA* |
+| **0.3.0** | ICD-100 series (Groningen - Zwolle) | ❔| *TBA* |
+| **0.4.0** | IC-400 series (Groningen - Rotterdam Centraal) | ❔| *TBA* |
+| **0.5.0** | SPR-600 series (Groningen - Zwolle) | ❔| *TBA* |
+| **0.6.0** | IC-500 series (Groningen - Eindhoven) | ❔| *TBA* |
+| **0.6.1** | Loading Screen Images | ❔| *TBA* |
+| **0.7.0** | IC-700 series (Groningen - Amsterdam Centraal) | ❔ | *TBA* |
+| **0.8.0** | ST900, ST1000, ST1100, ST1200, NT1300, ST1400-series (Arriva services Groningen) | ❔ | *TBA* |
+| **0.9.0** | AI-services Leeuwarden-Zwolle | ❔ | *TBA* |
+| **0.10.0** | Playable services Zwolle - Meppel (Leeuwarden) | ❔ | *TBA* |
+| **0.11.0** | AI-services Zwolle | ❔ | *TBA* |
+| **0.12.0** | Tutorials & Scenario's | ❔ | *TBA* |
+| **1.0.0** | Initial Release | ❔ | *TBA* |
 
 <br/><br/>
 
