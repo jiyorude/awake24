@@ -92,10 +92,10 @@ A dedicated documentation website with in-depth information regarding services, 
 | **0.6.0** | IC-500 series (Groningen - Eindhoven) | ❔| *TBA* |
 | **0.6.1** | Loading Screen Images | ❔| *TBA* |
 | **0.7.0** | IC-700 series (Groningen - Amsterdam Centraal) | ❔ | *TBA* |
-| **0.8.0** | ST900, ST1000, ST1100, ST1200, NT1300, ST1400-series (Arriva services Groningen) | ❔ | *TBA* |
+| **0.8.0** | Arriva services Groningen | ❔ | *TBA* |
 | **0.9.0** | AI-services Leeuwarden-Zwolle | ❔ | *TBA* |
 | **0.10.0** | Playable services Zwolle - Meppel (Leeuwarden) | ❔ | *TBA* |
-| **0.11.0** | AI-services Zwolle | ❔ | *TBA* |
+| **0.11.0** | AI-services Zwolle (Blauwnet/NS) | ❔ | *TBA* |
 | **0.12.0** | Tutorials & Scenario's | ❔ | *TBA* |
 | **1.0.0** | Initial Release | ❔ | *TBA* |
 
