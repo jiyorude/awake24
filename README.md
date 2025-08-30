@@ -79,7 +79,7 @@ A dedicated documentation website with in-depth information regarding services, 
 | ❌ | Feature is not working (yet) |
 | 🚧 | Work in progress |
 
-<br/>
+<br/> <br/>
 
 | Version | Functionality | Current State |   Date |
 | :------:| :----------- | :-------------|:------|
