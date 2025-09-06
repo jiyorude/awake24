@@ -61,5 +61,27 @@ This file provides a comprehensive overview of all services included in the Awak
 | **IC275** | 21:30 | 21:41 | 21:58 | 22:14 | 22:17 | ✅ | 
 
 
+<br/><br/>
+
+### IC300/350 series | Intercity Groningen - Assen (v.v.)
+* via Haren <br/>
+* NS ICM-3 with 3 carriages
+* runs twice an hour, 24 hours per day
+
+#### Platform 3b (Groningen)
+
+|Service | Groningen | Haren | Assen  | Status |  
+|:---| :---: | :---:| :----: | :----:|
+| **IC350** | 12:05 | 12:10 | 12:24 | 🅿️ |
+| **IC302** | 12:35 | 12:40 | 12:54 | 🅿️ |
+
+
+#### Platform 2 (Assen)
+
+|Service | Assen | Haren | Groningen | Status | 
+|:---| :---: | :---:| :----: | :----:| 
+| **IC301** | 12:05 | 12:17 | 12:24 | 🅿️ |  
+| **IC351** | 12:35 | 12:47 | 12:54 | 🅿️ |
+
 
 

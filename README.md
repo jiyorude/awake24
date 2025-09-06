@@ -84,7 +84,7 @@ A dedicated documentation website with in-depth information regarding services, 
 | Version | Functionality | Current State |   Date |
 | :------:| :----------- | :-------------|:------|
 | **0.1.0** | IC-200 series (Groningen - Meppel) | ✅  | 30/08/2025 |
-| **0.2.0** | IC-300 series (Groningen - Assen) | 🚧 | *TBA* |
+| **0.2.0** | IC-300 series (Groningen - Assen) | 🅿️ | 06/09/2025 |
 | **0.2.1** | Theming (Awake24 Logo and Theme in-game) | ❔| *TBA* |
 | **0.3.0** | ICD-100 series (Groningen - Zwolle) | ❔| *TBA* |
 | **0.4.0** | IC-400 series (Groningen - Rotterdam Centraal) | ❔| *TBA* |
